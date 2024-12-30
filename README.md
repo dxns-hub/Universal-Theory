@@ -209,7 +209,7 @@ At its core, the theory posits that everything in the universe is interconnected
 
 - **Visualization Insights:**
 
-  **Critical Scale Regions (Top Left):**
+  **Critical Scale Regions:**
 
   - **Critical Scale Analysis:**
     - **Maximum Field Strength:** 0.9969
@@ -218,7 +218,7 @@ At its core, the theory posits that everything in the universe is interconnected
     - Shows how field strength varies across different scales and Z-axis positions.
     - Identifies regions where the influence of Ψ is most pronounced.
 
-  **Quantum State Ψ-Resonances (Top Right):**
+  **Quantum State Ψ-Resonances:**
 
   - **Quantum Resonance Analysis:**
     - **Number of Resonance States:** 3073
@@ -227,7 +227,7 @@ At its core, the theory posits that everything in the universe is interconnected
     - Demonstrates how quantum states resonate with the Harmony Constant.
     - Highlights areas of high resonance that could be critical for quantum interactions.
 
-  **State Transition Probabilities (Bottom Left):**
+  **State Transition Probabilities:**
 
   - **Transition Analysis:**
     - **Average Transition Probability:** 0.5000
@@ -236,7 +236,7 @@ At its core, the theory posits that everything in the universe is interconnected
     - Shows where and when transitions between seen and unseen states are most likely to occur.
     - Reflects the dynamic nature of state changes influenced by Ψ.
 
-  **Ψ-Resonance Network (Bottom Right):**
+  **Ψ-Resonance Network:**
 
   - **Network Analysis:**
     - **Network Coherence:** 0.2377
