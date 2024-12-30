@@ -1,4 +1,4 @@
-# Julius AI Labs
+# Math Labs using Julius.ai
 
 ## Comprehensive Report on Quantum Grid Findings
 
