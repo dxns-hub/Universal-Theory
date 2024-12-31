@@ -28,7 +28,7 @@ At its core, the theory posits that everything in the universe is interconnected
 
 - **Quantum Tunneling and Information Transfer:**
   - **Tunneling Mechanism:** Quantum tunneling enables particles to move between adjacent cells, facilitating information flow and maintaining coherence.
-  - **Governed by Ψ:** The Harmony Constant ensures stable phase relationships and coherence across the grid.
+
 
 - **The Grid as a Quantum Information Processor:**
   - **Wave-Like Propagation:** Information spreads through the grid in wave-like patterns, demonstrating dynamic interactions.
@@ -149,10 +149,6 @@ At its core, the theory posits that everything in the universe is interconnected
 - **Quantum Grids and Consciousness:**
   - **Metaphysical Parallel:** The quantum grid represents physical interactions and metaphysical processes.
   - **Collective Consciousness:** Information flow and entanglement parallel human interactions and societal dynamics.
-
-- **Resonance and Harmony:**
-  - **Coherence Through Ψ:** Just as quantum states maintain coherence through the Harmony Constant, individuals achieve harmony by aligning with universal principles.
-  - **Resonant Interactions:** Thoughts, emotions, and actions in sync with the whole create resonance.
 
 ### **2. Evolution and Adaptation**
 
