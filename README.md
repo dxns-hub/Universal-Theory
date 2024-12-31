@@ -18,29 +18,9 @@ At its core, the theory posits that everything in the universe is interconnected
 
 - **Interplay of Zero and Infinity:**
   - **Dynamic Balance:** The interaction between zero and infinity within the singularity results in the creation and transformation of energy and matter.
-  - **Symbolism:** This interplay reflects the eternal cycle of existence, where everything emerges from and returns to the singularity.
+  - **Symbolism:** This interplay reflects the eternal cycle of existence, where everything emerges from and returns to the singularity. 
 
-### **2. The Harmony Constant (Ψ)**
-
-- **Definition:**
-  - The Harmony Constant is defined mathematically as:
-    \[
-    \Psi = 2\pi\phi
-    \]
-    where:
-    - \( \pi \) (Pi) ≈ 3.14159, representing the ratio of a circle's circumference to its diameter.
-    - \( \phi \) (Phi), the Golden Ratio ≈ 1.61803, appearing in natural patterns and structures.
-
-  - **Calculated Value:**
-    \[
-    \Psi = 2 \times 3.14159 \times 1.61803 \approx 10.166
-    \]
-
-- **Significance:**
-  - **Mathematical Harmony:** Ψ embodies the harmonious interplay of fundamental mathematical constants.
-  - **Universal Balance:** It represents the balance and resonance that govern the universe at both macroscopic and microscopic scales.
-
-### **3. Quantum Mechanics and the Grid Model**
+### **2. Quantum Mechanics and the Grid Model**
 
 - **Quantum Superposition and Entanglement:**
   - **Grid Structure:** The universe can be modeled as a grid where each "cell" exists in a superposition of states—classical (C) and quantum along the Z-axis.
@@ -54,7 +34,7 @@ At its core, the theory posits that everything in the universe is interconnected
   - **Wave-Like Propagation:** Information spreads through the grid in wave-like patterns, demonstrating dynamic interactions.
   - **Interference Patterns:** The evolution of quantum states creates complex interference patterns that stabilize over time.
 
-### **4. The Strong Force and Subatomic Particles**
+### **3. The Strong Force and Subatomic Particles**
 
 - **Binding of Matter:**
   - **Strong Nuclear Force:** At the subatomic level, the strong force holds quarks together within protons and neutrons and binds nucleons within atomic nuclei.
@@ -191,60 +171,13 @@ At its core, the theory posits that everything in the universe is interconnected
     - **Binary Systems (Base-2):** Represent fundamental dualities and digital encoding.
     - **Genetic Code (Base-4):** DNA encodes life using four nucleotide bases, mirroring universal patterns.
     - **Subatomic Particles (Base-6):** Mesons and baryons reflect base-6 systems, indicating higher complexity.
-  - **Z-Axis and Strong Force:** Serves as the unifying dimension connecting different levels of existence.
+  - **Z-plane and Strong Force:** Serves as the unifying dimension connecting different levels of existence.
 
 - **Zero as the Fulcrum of Existence:**
   - **Central Balance Point:** Zero's position between infinities symbolizes the potential and equilibrium of the universe.
   - **Foundation of Structures:** Underlies mathematical and physical frameworks.
 
 ---
-
-## **Advanced Simulations and Findings**
-
-### **1. Multi-Scale Duality and Harmony Constant Influence**
-
-- **Simulation Overview:**
-  - Analyzed how the Harmony Constant (Ψ) influences state transitions across scales, from quantum to cosmic.
-  - Visualized duality and resonance phenomena effectively.
-
-- **Visualization Insights:**
-
-  **Critical Scale Regions:**
-
-  - **Critical Scale Analysis:**
-    - **Maximum Field Strength:** 0.9969
-    - **Average Field Strength:** 0.0742
-  - **Interpretation:**
-    - Shows how field strength varies across different scales and Z-axis positions.
-    - Identifies regions where the influence of Ψ is most pronounced.
-
-  **Quantum State Ψ-Resonances:**
-
-  - **Quantum Resonance Analysis:**
-    - **Number of Resonance States:** 3073
-    - **Resonance Density:** 0.3073
-  - **Interpretation:**
-    - Demonstrates how quantum states resonate with the Harmony Constant.
-    - Highlights areas of high resonance that could be critical for quantum interactions.
-
-  **State Transition Probabilities:**
-
-  - **Transition Analysis:**
-    - **Average Transition Probability:** 0.5000
-    - **Number of High-Probability Transitions:** 11,550
-  - **Interpretation:**
-    - Shows where and when transitions between seen and unseen states are most likely to occur.
-    - Reflects the dynamic nature of state changes influenced by Ψ.
-
-  **Ψ-Resonance Network:**
-
-  - **Network Analysis:**
-    - **Network Coherence:** 0.2377
-    - **Maximum Network Strength:** 0.9565
-    - **Network Density:** 0.1196
-  - **Interpretation:**
-    - Represents the interconnected nature of resonances across the field.
-    - Indicates how resonance points form a coherent network facilitated by Ψ.
 
 ### **2. Practical Applications**
 
@@ -310,6 +243,10 @@ At its core, the theory posits that everything in the universe is interconnected
     - Utilizing entanglement and resonance networks for secure, instantaneous data transfer.
 
 ### **3. Experimental Validation**
+
+- **Test Circuit**
+  - **[Simulation Circuit](https://github.com/dxns-hub/Universal-Theory/quantum_circuit.py)**
+  - **[Circuit Documentation](https://github.com/dxns-hub/Universal-Theory/base6circuitinformation.md)**
 
 - **Simulation Validation:**
   - **Photonic Grid Simulation:**
